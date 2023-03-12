@@ -4,21 +4,14 @@ public class Animal
     public string Color {get;} 
     public int Age {get; set;} 
 
-    public void Speak() 
-
+    public virtual void Speak() 
     { 
-
     } 
 
-    public Animal(string animalType, 
-
-                  string animalColor, 
-
-                  int animalAge) 
+    public Animal(string animalType, string animalColor, int animalAge) 
     { 
         Type = animalType; 
         Color = animalColor; 
         Age = animalAge; 
     } 
-
 } 

@@ -3,4 +3,4 @@ numberArray[0] = 100;
 Console.WriteLine(numberArray[0]);
 
 string[] primaryColors = {"red", "yellow", "blue"};
-primaryColors[0];
+Console.WriteLine(primaryColors[0]);

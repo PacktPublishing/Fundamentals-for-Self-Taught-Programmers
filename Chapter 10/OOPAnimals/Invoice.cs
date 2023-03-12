@@ -1,7 +1,5 @@
 public class Invoice
-
 {
-
     private int _invoiceId; public Animal Pet { get; }
     public string OwnerName { get; }
     public double Balance { get; private set; }
@@ -17,12 +15,10 @@ public class Invoice
         //If invoice exists in database...  
         //it sets each property. 
         _invoiceId = invoiceID;
-
     }
 
     public void MakePayment(double paymentAmount)
     {
-
         bool transactionSuccessful = Calculate(paymentAmount);
 
         if (transactionSuccessful)
