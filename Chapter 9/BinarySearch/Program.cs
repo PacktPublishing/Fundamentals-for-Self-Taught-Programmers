@@ -7,7 +7,7 @@ while(lowerHalfIndex <= upperHalfIndex)
     int midpointIndex = lowerHalfIndex + (upperHalfIndex - lowerHalfIndex)/2;
     int searchValue = 55;
 
-    if (testArray[midpointIndex] > searchValue )
+    if (testArray[midpointIndex] > searchValue)
     {
         upperHalfIndex = midpointIndex - 1;
     }
@@ -24,7 +24,7 @@ while(lowerHalfIndex <= upperHalfIndex)
     }
 }
 
-if (lowerHalfIndex > upperHalfIndex) 
-{ 
-        Console.WriteLine("Your value was not found!"); 
-} 
+if (lowerHalfIndex > upperHalfIndex)
+{
+        Console.WriteLine("Your value was not found!");
+}

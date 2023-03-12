@@ -1,6 +1,6 @@
 public class Invoice
 {
-    private int _invoiceId; 
+    private int _invoiceId;
     public Animal Pet { get; }
     public string OwnerName { get; }
     public double Balance { get; private set; }
@@ -27,6 +27,7 @@ public class Invoice
             UpdateBalance(paymentAmount);
         }
     }
+
     private bool Calculate(double amount)
     {
         //Code that makes some calculations...
@@ -40,7 +41,7 @@ public class Invoice
     {
         //Code that makes some calculations...
 
-        //Code sets success variable to true or false 
+        //Code sets success variable to true or false
         bool success = true;
         return success;
     }

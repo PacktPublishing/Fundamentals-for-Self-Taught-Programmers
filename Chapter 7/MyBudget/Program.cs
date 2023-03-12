@@ -24,7 +24,6 @@ else
 
 PrintBalance();
 
-
 void PrintBalance()
 {
     Console.WriteLine(balanceMessage + balance);
@@ -38,6 +37,5 @@ void CalculateNewBalance(decimal expense)
 bool VerifyAffordable(decimal cost)
 {
     bool canAfford = balance > cost;
-
     return canAfford;
 }

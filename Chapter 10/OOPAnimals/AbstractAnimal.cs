@@ -1,5 +1,5 @@
-public abstract class AbstractAnimal  
+public abstract class AbstractAnimal
 {  
-    //Rest of code here... 
-    public abstract void Speak(); 
+    //Rest of code here...
+    public abstract void Speak();
 }
