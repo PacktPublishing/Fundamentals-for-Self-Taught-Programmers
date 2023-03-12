@@ -6,7 +6,6 @@ for (int index = 0; index < testArray.Length; index++)
     if(searchValue == testArray[index])
     {
         Console.WriteLine("Value found!");
+        break;
     }
 }
-
-Console.WriteLine("Value not found!");

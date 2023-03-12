@@ -12,14 +12,19 @@ while(lowerHalfIndex <= upperHalfIndex)
         upperHalfIndex = midpointIndex - 1;
     }
 
-    else if(testArray[midpointIndex] > searchValue)
+    else if(testArray[midpointIndex] < searchValue)
     {
         lowerHalfIndex = midpointIndex + 1;
     }
 
     else 
     {
-
         Console.WriteLine("Your value was found!");
+        break;
     }
 }
+
+if (lowerHalfIndex > upperHalfIndex) 
+{ 
+        Console.WriteLine("Your value was not found!"); 
+} 
