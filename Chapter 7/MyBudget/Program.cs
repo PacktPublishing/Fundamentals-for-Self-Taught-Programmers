@@ -1,6 +1,6 @@
-﻿decimal balance = 75.45M; 
-decimal groceries = 40.00M; 
-decimal tea = 5.00M; 
+﻿decimal balance = 75.45M;
+decimal groceries = 40.00M;
+decimal tea = 5.00M;
 string balanceMessage = "The current balance is: $";
 
 PrintBalance();
