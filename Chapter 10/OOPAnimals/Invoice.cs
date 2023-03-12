@@ -1,6 +1,7 @@
 public class Invoice
 {
-    private int _invoiceId; public Animal Pet { get; }
+    private int _invoiceId; 
+    public Animal Pet { get; }
     public string OwnerName { get; }
     public double Balance { get; private set; }
     private string DefaultPaymentMethod { get; }
