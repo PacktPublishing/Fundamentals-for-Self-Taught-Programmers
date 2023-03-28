@@ -1,2 +1,2 @@
-# Computer-Science-for-Self-Taught-Developers
-Computer Science for Self-Taught Developers, published by Packt
+# Fundamentals for Self-Taught Programmers
+Fundamentals for Self-Taught Programmers, published by Packt
