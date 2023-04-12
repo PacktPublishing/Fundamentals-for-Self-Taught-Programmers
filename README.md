@@ -1,8 +1,8 @@
 # Fundamentals for Self-Taught Programmers
 
-<a href=""><img src="https://m.media-amazon.com/images/I/41kjkdFZ-GL._SX403_BO1,204,203,200_.jpg" alt="Fundamentals for Self-Taught Programmers" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/fundamentals-for-self-taught-programmers/9781801812115"><img src="https://content.packt.com/B18773/cover_image_small.jpg" alt="Fundamentals for Self-Taught Programmers" height="256px" align="right"></a>
 
-This is the code repository for [Fundamentals for Self-Taught Programmers](https://www.amazon.com/dp/180181211X), published by Packt.
+This is the code repository for [Fundamentals for Self-Taught Programmers](https://www.packtpub.com/product/fundamentals-for-self-taught-programmers/9781801812115), published by Packt.
 
 **Embark on your software engineering journey without exhaustive courses and bulky tutorials**
 
