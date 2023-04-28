@@ -53,3 +53,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Jasmine Greenaway**
 is a New York City-based technologist, software engineering instructor, speaker, and technical community organizer. Her background is in full-stack web development with experience across multiple industries such as retail, gaming, and developer tooling. She’s currently part of the Cloud Advocacy team at Microsoft, working with academic communities such as students and educators who are ready to infuse their curriculum and careers with cloud technology. Jasmine has a passion for helping newcomers to tech, understanding the struggles of what it takes to get started and stay motivated. She teaches programming and computer science fundamentals at local colleges in the New York City area.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801812115">https://packt.link/free-ebook/9781801812115 </a> </p>
